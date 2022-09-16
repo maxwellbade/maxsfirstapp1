@@ -85,7 +85,7 @@ lesscpy==0.14.0
 lib50==2.0.8
 lxml==4.5.0
 Mail==2.1.0
-Mako==1.1.2
+Mako==1.2.2
 mapper==0.1.17
 MarkupSafe==0.23
 matplotlib==2.1.0
