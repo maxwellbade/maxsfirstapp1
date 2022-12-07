@@ -20,7 +20,7 @@ bokeh==0.12.7
 boto3==1.4.8
 botocore==1.8.1
 bs4==0.0.1
-certifi==2017.11.5
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 clang==5.0
